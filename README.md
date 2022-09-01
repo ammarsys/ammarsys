@@ -1,22 +1,14 @@
 Hi 👋
 
-I am a Python Developer. I plan on learning C and improving my SQL knowledge. API wrappers, APIs, desktop GUI applications and Discord bots pique my interest. I've been coding since 05/07/2020.
+I am a Full stack web developer and an UI / UX designer. While Python is my specialty, I also work with SQL, JS, HTML & CSS and C. On a daily basis, I work with Web Applications, Web designs and Discord bots. You can find my personal site [here](https://novu.pythonanywhere.com/) and you can contact me via my [private Discord server](https://discord.gg/MnAfrSnAXd). I've been programming for 3 years so far.
 
-Currently I am not working on anything, feel free to hit me up `novu#7568`.
+Over the years of programming I've achieved substancial success in Python, my most notable project is [pyaww](https://github.com/novusys/pyaww).
+
+### Technologies
 
 ```json
 {
-   "programming_languages":{
-      "Python 3":{
-         "formatting":"black",
-         "tests":"pytest",
-         "mypy":true,
-         "IDE/text_editor":"PyCharm Professional",
-         "py_version":3.10,
-         "experience_years":1.7
-      }
-   },
-   "hobbies": ["debating", "programming", "MTBing"]
+   "python3": ["mypy", "black", "discord.py", "flask", "fastapi"],
+   "sql": ["postgresql", "sqlite"],
+   "html&css": ["bootstrap", "animate.css"]
 }
-```
-
